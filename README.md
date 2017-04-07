@@ -28,3 +28,5 @@ I used the argp library to automate parsing arguments. It can take the following
  **(q)uit** | Quits the game.
  
  \*Parenthesis around a letter indicate the short version of the command.
+
+There is also a basic AI that was implemented to play against.  It's not a very robust AI, but it does more than just pick a random column.
